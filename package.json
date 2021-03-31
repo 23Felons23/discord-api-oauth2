@@ -1,0 +1,29 @@
+{
+  "name": "discord-api-oauth2",
+  "version": "1.0.10",
+  "description": "A simple package that allows you to simply use Discord Oauth2, and make calls to the api with auto refresh_token implemented !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23Felons23/discord-api-oauth2.git"
+  },
+  "keywords": [
+    "discord",
+    "oauth2",
+    "discord-api",
+    "api",
+    "discord-oauth2"
+  ],
+  "author": "felons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23Felons23/discord-api-oauth2/issues"
+  },
+  "homepage": "https://github.com/23Felons23/discord-api-oauth2#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
