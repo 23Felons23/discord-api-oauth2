@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/23Felons23/discord-api-oauth2#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
